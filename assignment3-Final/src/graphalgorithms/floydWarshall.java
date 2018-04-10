@@ -4,6 +4,12 @@ package graphalgorithms;
 import java.io.*;
 import java.util.*;
 
+//Authors: Ahmed Naji, Robert Murch and Zach Schallenberger
+//
+//Date submitted: April 10, 2018
+//
+//Runs Floyd Warshall's Algorithm with the given input
+
 import com.sun.javafx.geom.Edge;
 
 public class floydWarshall {

@@ -2,6 +2,14 @@ package graphalgorithms;
 
 import java.util.Arrays;
 
+
+//Authors: Ahmed Naji, Robert Murch and Zach Schallenberger
+//
+//Date submitted: April 10, 2018
+//
+//Runs Prim's Algorithm with the given input
+
+
 public class PrimsAlgorithm {
 
     String[] verticies;

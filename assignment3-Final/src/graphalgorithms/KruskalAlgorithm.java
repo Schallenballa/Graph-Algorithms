@@ -2,6 +2,12 @@ package graphalgorithms;
 
 import java.util.Arrays;
 
+//Authors: Ahmed Naji, Robert Murch and Zach Schallenberger
+//
+//Date submitted: April 10, 2018
+//
+//Runs Kruskal's Algorithm with the given input
+
 public class KruskalAlgorithm {
 
     String[] verticies;
